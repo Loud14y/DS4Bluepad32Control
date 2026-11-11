@@ -1,0 +1,4 @@
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_protocol.c:14:9:rc_crc8	24	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_protocol.c:35:9:rc_parser_feed	16	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_protocol.c:98:6:rc_update_link	24	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_protocol.c:107:6:rc_input_reset	24	static

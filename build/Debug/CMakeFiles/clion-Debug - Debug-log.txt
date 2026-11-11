@@ -1,0 +1,5 @@
+"D:\CLion 2026.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug --preset Debug -S D:\tools\STM32Document\DS4Bluepad32Control -B D:\tools\STM32Document\DS4Bluepad32Control\build\Debug
+Build type: Debug
+-- Configuring done (0.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/tools/STM32Document/DS4Bluepad32Control/build/Debug

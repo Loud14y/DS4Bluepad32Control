@@ -1,0 +1,7 @@
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:17:13:touch	16	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:24:12:clamp100	16	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:32:16:parse_int	32	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:55:13:print_help	8	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:67:13:cmd_execute	24	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:135:6:rc_cmd_init	16	static
+D:/tools/STM32Document/DS4Bluepad32Control/Core/Src/rc_cmd.c:147:6:rc_cmd_feed	16	static
